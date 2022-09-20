@@ -82,3 +82,8 @@ body{
     display: flex;
     gap: 10px;
 }
+
+.image-container{
+    width: 100%;
+    height: 230px;
+}
